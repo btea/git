@@ -1,6 +1,7 @@
 # git
-git command
 
+git command
+[git 文档](https://git-scm.com/book/zh/v2)  
 [githooks](https://githooks.com/)  
-[ssh教程](https://wangdoc.com/ssh/basic.html)  
-[Linux scp命令](https://www.runoob.com/linux/linux-comm-scp.html) 
+[ssh 教程](https://wangdoc.com/ssh/basic.html)  
+[Linux scp 命令](https://www.runoob.com/linux/linux-comm-scp.html)
